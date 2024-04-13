@@ -44,7 +44,9 @@ To address these inefficiencies, this project leverages a queue data structure. 
 
 ## Video Demonstration
 
-![USART Debugging Using Interrupt - Video Demonstration](Keil_Keil_USART_Debugging_Using_Interrupt.gif)
+## Video Demonstration
+
+<img src="Keil_Keil_USART_Debugging_Using_Interrupt.gif" alt="USART Debugging Using Interrupt - Video Demonstration" width="500">
 
 ## Contributing
 
