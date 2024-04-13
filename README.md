@@ -42,11 +42,9 @@ To address these inefficiencies, this project leverages a queue data structure. 
 
 ## Video Demonstration
 
-Watch the detailed debugging and operation demonstration in the video below:
+## Video Demonstration
 
-[![USART Debugging Using Interrupt - Video Demonstration](https://example.com/video_thumbnail.png)](https://example.com/Keil_Keil_USART_Debugging_Using_Interrupt.mp4)
-
-Replace `https://example.com/video_thumbnail.png` with the URL of the thumbnail image for your video, and `https://example.com/Keil_Keil_USART_Debugging_Using_Interrupt.mp4` with the URL of the video file itself.
+![USART Debugging Using Interrupt - Video Demonstration](Keil_Keil_USART_Debugging_Using_Interrupt.gif)
 
 ## Contributing
 
