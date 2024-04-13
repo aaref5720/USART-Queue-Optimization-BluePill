@@ -51,11 +51,3 @@ To address these inefficiencies, this project leverages a queue data structure. 
 ## Contributing
 
 Contributions to this project are welcome! If you have ideas for further optimization or improvements, feel free to open an issue or submit a pull request.
-
-## Acknowledgments
-
-Special thanks to the creators of Keil uVision and the developers of the Blue Pill development board for their tools and hardware, enabling embedded systems development and optimization.
-
----
-
-Feel free to customize this README according to your specific project details and requirements. Happy optimizing! 🚀
